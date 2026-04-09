@@ -22,9 +22,5 @@ namespace ConsoleUI
                 return $"Tara = {State}, Oras = {City},\nStrada =  {Street}, Nr. = {Number}, Sc. =  {Scara},\nCP =  {ZipCode}"; 
             }
         }
-
-
-
-
     }
 }
